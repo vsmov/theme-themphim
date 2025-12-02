@@ -1,65 +1,29 @@
-<?php //ICB0 81:0 82:c19                                                      ?><?php //002cd
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+@extends('themes::themethemphim.layout')
+
+@php
+@endphp
+@section('content')
+<main class="pb-[32px] lg:pb-[100px] mt-[calc(var(--header-height)+16px)] lg:mt-[calc(var(--header-height)+52px)]">
+    <section class="container">
+        <div class="flex items-center justify-between max-[1132px]:justify-center">
+            <h1 class="typography font-title text-[40px] leading-[100%] font-normal max-[1132px]:hidden">Nhật ký xem phim</h1>
+        </div>
+    </section>
+    <section class="lg:mt-16 container mt-8">
+        <div>
+            <ul class="grid grid-cols-3 sm:grid-cols-5 lg:grid-cols-7 gap-3 gap-y-5 lg:gap-4 lg:gap-y-7">
+               @foreach ($movies as $item)
+                    @if ($item->movie)
+                        @php
+                            $movie = $item->movie;
+                        @endphp
+                    @include('themes::themethemphim.inc.section_movies_item')
+                    @endif
+                    @endforeach
+                </ul>
+            </ul>
+            {{ $movies->appends(request()->all())->links('themes::themethemphim.inc.pagination') }}
+        </div>
+    </section>
+</main>
+@endsection

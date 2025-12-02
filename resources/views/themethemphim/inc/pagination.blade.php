@@ -1,69 +1,29 @@
-<?php //ICB0 81:0 82:c8f                                                      ?><?php //002cd
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-z+wrJgiFenD2AEBREXOT2hD09Wdu=
-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
+@if ($paginator->hasPages())
+    <div class="text-center flex flex-wrap justify-center items-center gap-2 mt-6">
+        @if ($paginator->onFirstPage())
+        @else
+            <a class="bg-[#FFFFFF10] hover:bg-[#FFFFFF30] px-4 py-2 rounded-md" href="{{ $paginator->previousPageUrl() }}" title="Prev page">←</a>
+        @endif
+
+        @foreach ($elements as $element)
+            @if (is_string($element))
+                {{ $element }}
+            @endif
+
+            @if (is_array($element))
+                @foreach ($element as $page => $url)
+                    @if ($page == $paginator->currentPage())
+                        <a class="hover:bg-[#FFFFFF30] text-primary bg-[#FFFFFF30] px-4 py-2 rounded-md">{{ $page }}</a>
+                    @else
+                        <a class="bg-[#FFFFFF10] hover:bg-[#FFFFFF30] px-4 py-2 rounded-md" href="{{ $url }}" title="View page {{ $page }}">{{ $page }}</a>
+                    @endif
+                @endforeach
+            @endif
+        @endforeach
+
+        @if ($paginator->hasMorePages())
+            <a class="bg-[#FFFFFF10] hover:bg-[#FFFFFF30] px-4 py-2 rounded-md" href="{{ $paginator->nextPageUrl() }}" title="View next page">→</a>
+        @else
+        @endif
+    </div>
+@endif
